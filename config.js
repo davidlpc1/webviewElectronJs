@@ -1,3 +1,5 @@
 module.exports = {
-    url:'http://localhost/3000',
+    width: "600",
+    height: "400",
+    url: "https://google.com.br/"
 }
