@@ -1,0 +1,23 @@
+{
+  "name": "webviewElectronJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eletron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlpc1/webviewElectronJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlpc1/webviewElectronJs/issues"
+  },
+  "homepage": "https://github.com/davidlpc1/webviewElectronJs#readme",
+  "dependencies": {
+    "electron": "^11.0.1"
+  }
+}
